@@ -8,7 +8,7 @@ Bu Python tabanlı proje, ses kaydındaki konuşmacıları tanır, duygusal tonl
 Google Cloud hesabı ve etkinleştirilmiş ilgili API'ler 
 -Google Cloud Natural Language 
 -Google Cloud Speech-to-Text
--Gemini API)
+-Gemini API (Gemini API Key'i .env dosyasında saklayın)
 
 ## Kurulum
 1. **Python'u yükleyin:** Python 3.9 (önerilir) veya 3.10'u indirip yükleyin. (https://www.python.org/downloads/)
